@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# AWS credentials (never commit real credentials)
+.aws/
+
+# Diagrams
+*.drawio
+*.png
+*.svg
+
+# Misc
+*.swp
+*.swo
